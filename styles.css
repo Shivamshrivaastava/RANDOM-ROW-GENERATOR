@@ -1,0 +1,39 @@
+
+.btn1 {
+  color: blueviolet;
+}
+
+.btn2 {
+  color: red;
+}
+.tr {
+  background-color: chocolate;
+}
+.TH{
+  padding: 1%;
+ color:blueviolet;
+ inline-size: 100px;
+text-decoration: none;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 15.8px;
+}
+
+
+.TD{
+  padding:0.25rem;
+  color: chartreuse;
+  inline-size: 100px;
+text-decoration: none;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 5x;
+}
+
+#tbl{
+  /* padding:2%; */
+  color: chartreuse;
+  inline-size: 100px;
+text-decoration: none;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 10x;
+
+}
